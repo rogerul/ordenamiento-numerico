@@ -1,0 +1,51 @@
+body{
+	background-color: #eeeeee;
+}
+.panel{
+	width: 40%;
+	margin: 50px auto;
+}
+
+#cont_numeros{
+	// background-color: #83E3DB;
+	width: 70%;
+	color: #232323;
+	font-size: 20px;
+	margin: 0 auto;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.alert{
+	display: none;
+}
+
+.caja_num{
+	background-color: #dddddd;
+	padding: 10px 0;
+	margin: 5px 5px;
+	width: 50px;
+	text-align: center;
+	display: inline-block;
+	border-radius: 5px;
+}
+
+.caja_num2{
+	background-color: #dddddd;
+	padding: 10px 0;
+	margin: 5px 5px;
+	width: 50px;
+	text-align: center;
+	display: inline-block;
+	border-radius: 5px;
+	   -webkit-transition: all .8s;
+    -o-transition: all .8s;
+    transition: all .8s;
+}
+
+.container-fluid{
+	background-color: #BFC1CC;	
+	// min-height: 100px;
+	min-height: 100px;
+	padding: 20px 0;
+}
